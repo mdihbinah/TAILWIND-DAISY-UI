@@ -1,0 +1,51 @@
+{
+  "pricingPlans": [
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 999,
+      "currency": "BDT",
+      "duration": "Monthly",
+      "features": [
+        "Access to gym equipment",
+        "Locker facility",
+        "1 fitness assessment",
+        "Cardio zone access",
+        "Open gym hours"
+      ],
+      "isRecommended": false
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "popular": true,
+      "price": 1999,
+      "currency": "BDT",
+      "duration": "Monthly",
+      "features": [
+        "All Basic features",
+        "Personal trainer (2 sessions/week)",
+        "Diet plan guidance",
+        "Group classes (Yoga, Zumba)",
+        "Steam bath access"
+      ],
+      "isRecommended": true
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 2999,
+      "currency": "BDT",
+      "duration": "Monthly",
+      "features": [
+        "All Standard features",
+        "Unlimited personal training",
+        "Custom workout & diet plan",
+        "24/7 gym access",
+        "Sauna & spa access",
+        "Priority support"
+      ],
+      "isRecommended": false
+    }
+  ]
+}
